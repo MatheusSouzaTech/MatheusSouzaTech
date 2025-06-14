@@ -1,32 +1,37 @@
 <h1 align="center">Olá! 👋 Sou [Seu Nome]</h1>
 <p align="center">
-  Desenvolvedor Java apaixonado por criar soluções robustas e escaláveis.<br>
-  Atualmente aprimorando minhas habilidades e explorando novas tecnologias no ecossistema Java ☕.
+  Sou um desenvolvedor Java apaixonado por criar soluções robustas e escaláveis.<br>
+  Atualmente, estou aprimorando minhas habilidades e explorando novas tecnologias no ecossistema Java ☕.
 </p>
 
 ---
 
 ## 🚀 Minhas Habilidades
 
-**Linguagens**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+### 🧠 Linguagens
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
+</p>
 
-**Conceitos**  
-- Programação Orientada a Objetos (POO)
+### 🛠️ Conceitos
+- Orientação a Objetos (POO)
+- Boas práticas de desenvolvimento
 - APIs RESTful
-- Boas práticas de código
 
-**Frameworks/Bibliotecas**  
-- Spring Web Services 🌱  
-- (Adicione aqui outros frameworks que você usa)
+### 🔧 Frameworks e Bibliotecas
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring" />
+</p>
+- Spring Web Service  
+- (Adicione outros que estiver aprendendo)
 
-**Outras Tecnologias**  
-- (Adicione aqui outras ferramentas ou stacks que domina)
+### 💡 Outras Tecnologias
+- (Adicione aqui outras ferramentas como Git, Docker, etc.)
 
 ---
 
@@ -41,9 +46,16 @@
 
 ## 🤝 Conecte-se Comigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@example.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:SEU_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 ---
 
 <p align="center">💻 Sempre aberto a novos desafios e colaborações!</p>
+
