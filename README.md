@@ -54,7 +54,7 @@
 ## 🤝 Conecte-se Comigo
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/SEU_LINKEDIN/](https://www.linkedin.com/in/matheus-souza-b4a644195/?trk=flagship3_open_to_hiring_creation_upsell)" target="_blank">
+  <a href="https://www.linkedin.com/in/matheus-souza-b4a644195/?trk=flagship3_open_to_hiring_creation_upsell" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:mavictosouza@gmail.com">
