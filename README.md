@@ -31,7 +31,14 @@
 - (Adicione outros que estiver aprendendo)
 
 ### 💡 Outras Tecnologias
-- (Adicione aqui outras ferramentas como Git, Docker, etc.)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite" />
+</p>
+- Docker  
+- MySQL  
+- SQLite3
 
 ---
 
