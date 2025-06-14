@@ -28,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring" />
 </p>
 - Spring Web Service  
-- (Adicione outros que estiver aprendendo)
+
 
 ### 💡 Outras Tecnologias
 <p>
@@ -39,15 +39,6 @@
 - Docker  
 - MySQL  
 - SQLite3
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
-</div>
 
 ---
 
