@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Sou [Seu Nome]</h1>
+<h1 align="center">Olá! 👋 Sou Matheus Souza</h1>
 <p align="center">
   Sou um desenvolvedor Java apaixonado por criar soluções robustas e escaláveis.<br>
   Atualmente, estou aprimorando minhas habilidades e explorando novas tecnologias no ecossistema Java ☕.
@@ -47,10 +47,10 @@
 ## 🤝 Conecte-se Comigo
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/" target="_blank">
+  <a href="[https://www.linkedin.com/in/SEU_LINKEDIN/](https://www.linkedin.com/in/matheus-souza-b4a644195/?trk=flagship3_open_to_hiring_creation_upsell)" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:SEU_EMAIL@example.com">
+  <a href="mailto:mavictosouza@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
